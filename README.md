@@ -7,7 +7,7 @@
   * 안드로이드 1년
   * SI 부서 2년
 
-* 기술스택 : Java, Kotlin, Retrofit, Glide, DataBinding, LiveData, MVVM, MVC, MySql, MsSql
+* 기술스택 : Java, Kotlin, Retrofit, Glide, DataBinding, LiveData, Coroutine, MVVM, MVC, MySql, MsSql
 
 * 대표 경력
   * 샘소나이트 재고관리 프로그램 개발 및 유지보수
