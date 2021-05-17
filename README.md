@@ -24,6 +24,11 @@ C타입의 광각카메라를 안드로이드 기기에 연결하여
 광각 카메라의 특성상 볼록한 화면을 opengl을 이용해서 기존 카메라와 비슷하게 펴서
 광각 카메라의 넓은 시야를 갖고 촬영을 할 수 있게 해주는 기능이 핵심 기능.
 카메라 연결은 오픈소스를 이용하였고 opengl 왜곡과 필터, 카메라 앱 디자인, 편의기능을 개발.
+
+<img width="202" alt="image1" src="https://user-images.githubusercontent.com/38140436/118430481-1f276500-b70f-11eb-871a-63f676bf4da6.jpeg">
+<img width="202" alt="image2" src="https://user-images.githubusercontent.com/38140436/118430463-15056680-b70f-11eb-8250-5e49c3fa7f60.jpeg">
+<img width="202" alt="image3" src="https://user-images.githubusercontent.com/38140436/118430442-0c149500-b70f-11eb-81fd-e7712c7a86d2.jpeg">
+<img width="202" alt="image4" src="https://user-images.githubusercontent.com/38140436/118430389-f0a98a00-b70e-11eb-9578-6eeeb24c763c.jpeg">
 ![image](https://user-images.githubusercontent.com/38140436/118430481-1f276500-b70f-11eb-871a-63f676bf4da6.jpeg)
 ![image](https://user-images.githubusercontent.com/38140436/118430463-15056680-b70f-11eb-8250-5e49c3fa7f60.jpeg)
 ![image](https://user-images.githubusercontent.com/38140436/118430442-0c149500-b70f-11eb-81fd-e7712c7a86d2.jpeg)
@@ -43,6 +48,7 @@ C타입의 광각카메라를 안드로이드 기기에 연결하여
 기술 스택 : Kotlin, Java, MySql, Retrofit, Git, MVC, Firebase
 명품 수선을 원하는 소비자에게 회사와 계약된 수선사를 매칭해주는 앱.
 회원가입 및 각 진행별 알림, 사진 업로드, 럭셔리앤올 디자인, 실시간 조회
+
 ![Screenshot_20200903-173621_LuxuryNAll](https://user-images.githubusercontent.com/38140436/118429824-893f0a80-b70d-11eb-95d1-982ad8c4ba96.jpg)
 ![Screenshot_20200903-173910_LuxuryNAll](https://user-images.githubusercontent.com/38140436/118429853-9eb43480-b70d-11eb-96b6-344c6f4bf7ae.jpg)
 ![Screenshot_20200903-173634_LuxuryNAll](https://user-images.githubusercontent.com/38140436/118429855-a1168e80-b70d-11eb-87de-979fd5ef0d51.jpg)
