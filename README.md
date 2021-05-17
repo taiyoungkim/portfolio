@@ -25,14 +25,7 @@ C타입의 광각카메라를 안드로이드 기기에 연결하여
 광각 카메라의 넓은 시야를 갖고 촬영을 할 수 있게 해주는 기능이 핵심 기능.
 카메라 연결은 오픈소스를 이용하였고 opengl 왜곡과 필터, 카메라 앱 디자인, 편의기능을 개발.
 
-<img width="202" alt="image1" src="https://user-images.githubusercontent.com/38140436/118430481-1f276500-b70f-11eb-871a-63f676bf4da6.jpeg">
-<img width="202" alt="image2" src="https://user-images.githubusercontent.com/38140436/118430463-15056680-b70f-11eb-8250-5e49c3fa7f60.jpeg">
-<img width="202" alt="image3" src="https://user-images.githubusercontent.com/38140436/118430442-0c149500-b70f-11eb-81fd-e7712c7a86d2.jpeg">
-<img width="202" alt="image4" src="https://user-images.githubusercontent.com/38140436/118430389-f0a98a00-b70e-11eb-9578-6eeeb24c763c.jpeg">
-![image](https://user-images.githubusercontent.com/38140436/118430481-1f276500-b70f-11eb-871a-63f676bf4da6.jpeg)
-![image](https://user-images.githubusercontent.com/38140436/118430463-15056680-b70f-11eb-8250-5e49c3fa7f60.jpeg)
-![image](https://user-images.githubusercontent.com/38140436/118430442-0c149500-b70f-11eb-81fd-e7712c7a86d2.jpeg)
-![image](https://user-images.githubusercontent.com/38140436/118430389-f0a98a00-b70e-11eb-9578-6eeeb24c763c.jpeg)
+<img width="202" alt="image1" src="https://user-images.githubusercontent.com/38140436/118430481-1f276500-b70f-11eb-871a-63f676bf4da6.jpeg"><img width="202" alt="image2" src="https://user-images.githubusercontent.com/38140436/118430463-15056680-b70f-11eb-8250-5e49c3fa7f60.jpeg"><img width="202" alt="image3" src="https://user-images.githubusercontent.com/38140436/118430442-0c149500-b70f-11eb-81fd-e7712c7a86d2.jpeg"><img width="202" alt="image4" src="https://user-images.githubusercontent.com/38140436/118430389-f0a98a00-b70e-11eb-9578-6eeeb24c763c.jpeg">
 
 ### 머니밀리언(광고형 포인트앱)
 기술 스택 : Java, MySql, Retrofit, Git, MVC
