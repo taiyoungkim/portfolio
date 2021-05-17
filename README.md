@@ -32,6 +32,8 @@ C타입의 광각카메라를 안드로이드 기기에 연결하여
 기존 광고형 포인트앱과 유사함.
 회원가입 및 간단한 포인트게임(ex. 룰렛, 가위바위보), 애드팝콘과 구글광고 추가, 랭킹 조회등
 
+<img width="202" alt="00_01_login" src="https://user-images.githubusercontent.com/38140436/118431129-9e696880-b710-11eb-8b1b-4c8d4cebc2a2.jpg"> <img width="202" alt="01_home" src="https://user-images.githubusercontent.com/38140436/118431135-a1fcef80-b710-11eb-9697-06296a39d0fa.jpg"> <img width="202" alt="05_change" src="https://user-images.githubusercontent.com/38140436/118431171-b04b0b80-b710-11eb-9a27-4b505a9ce1a1.jpg"> <img width="202" alt="05_invitation" src="https://user-images.githubusercontent.com/38140436/118431158-acb78480-b710-11eb-897c-363708f0d029.jpg">
+
 ### 세차 관리자 앱
 기술 스택 : Kotlin, Java, MySql, Retrofit, Git, MVC, Firebase
 세차 관리자를 위한 간단한 세차관리 앱.
