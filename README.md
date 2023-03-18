@@ -7,10 +7,10 @@
   * 안드로이드 3년
   * SI 부서 2년
 
-* 기술스택 : Java, Kotlin, Retrofit, Glide, DataBinding, LiveData, Coroutine, MVVM, MVC, MySql, MsSql, UnitTest
+* 기술스택 : Kotlin, Java, Retrofit, Glide, DataBinding, LiveData, Flow, Dagger-Hilt, Coroutine, MVVM, MVC, MySql, MsSql, UnitTest, Material Design
 
 * 대표 경력
-  * 샘소나이트 재고관리 프로그램 개발 및 유지보수
+  * 샘소나이트 재고관리 프로그램 개발 및 유지보수 (PowerBuilder)
   * 광각카메라를 이용한 촬영 앱 개발
   * 머니밀리언(광고형 포인트앱) 개발
   * 세차 관리자 앱 개발
