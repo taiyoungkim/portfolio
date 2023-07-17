@@ -4,7 +4,7 @@
 * 나이 : 1992년생 (만 31살)
 
 * 경력
-  * 안드로이드 3년
+  * 안드로이드 4년
   * SI 부서 2년
 
 * 기술스택 : Kotlin, Java, Retrofit, Glide, DataBinding, LiveData, Flow, Dagger-Hilt, Coroutine, MVVM, MVC, MySql, MsSql, UnitTest, Material Design
