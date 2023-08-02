@@ -24,6 +24,32 @@
 
 ## 안드로이드
 
+### CalorieTracker
+상세 내용: [CalorieTracker](https://github.com/taiyoungkim/CalorieTracker)
+
+Uncle Bob의 Clean Architecture를 참고하여 Compose를 도입한 칼로리 측정 어플입니다.
+![titleImage](https://github.com/taiyoungkim/ImageGenerator/assets/38140436/51e96036-b6c9-46b5-aaaa-b7760e26b4ba)
+
+ScreenShots
+-----------
+<p align="center">
+    <img width="40%" src="https://github.com/taiyoungkim/CalorieTracker/assets/38140436/2535fcc7-a28f-46d3-bd97-8f8ff957e13b"/>
+    <img width="40%" src="https://github.com/taiyoungkim/CalorieTracker/assets/38140436/f2c7985a-f4fb-4171-a5a2-2bed62342f70"/>
+</p>
+
+### ImageGenerator
+상세 내용: [ImageGenerator](https://github.com/taiyoungkim/ImageGenerator)
+
+TDD를 기준으로 개발한 프로젝트로 ChatGPT API를 이용하여 키워드를 받아 이미지를 생성하는 어플입니다.
+프로젝트는 Android의 Official Architecture를 따랐고 Unit Test와 UI Test 모두 적용된 프로젝트입니다.
+
+ScreenShots
+-----------
+<p align="center">
+    <img width="40%" src="https://github.com/taiyoungkim/ImageGenerator/assets/38140436/007990cd-2b3f-4462-998d-1bc13b5783a4"/>
+    <img width="40%" src="https://github.com/taiyoungkim/ImageGenerator/assets/38140436/4879c7e4-6f47-4e1c-a32f-6c1665315486"/>
+</p>
+
 ### 광각카메라를 이용한 촬영 앱
 C타입의 광각카메라를 안드로이드 기기에 연결하여
 해당 카메라 렌즈로 촬영을 하는 앱.
