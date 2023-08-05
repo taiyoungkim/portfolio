@@ -11,6 +11,8 @@ Kotlin을 통해 Android 개발에 헌신하며, 클린 아키텍처와 테스�
 
 * 기술스택 : Kotlin, Java, Retrofit, Glide, DataBinding, LiveData, Flow, Dagger-Hilt, Coroutine, MVVM, MVC, MySql, MsSql, UnitTest, Material Design
 
+* [기술 블로그](https://medium.com/@ktyoung153)
+
 * 대표 경력
   * 샘소나이트 재고관리 프로그램 개발 및 유지보수 (PowerBuilder)
   * 광각카메라를 이용한 촬영 앱 개발
