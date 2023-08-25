@@ -1,4 +1,6 @@
-# 포트폴리오
+# 포트폴리오 
+
+### [더 편하게 보기](https://fork-watcher-a95.notion.site/Input-Output-51f77660caa6416fad009b3851c528aa?pvs=4)
 
 Kotlin을 통해 Android 개발에 헌신하며, 클린 아키텍처와 테스트 코드 작성에 특별한 관심을 갖고 있는 개발자입니다.
 
