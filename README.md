@@ -2,13 +2,13 @@
 
 ### [더 편하게 보기](https://fork-watcher-a95.notion.site/TAEYOUNG-KIM-230cd4a527f34927911ff22bf127d49d)
 
-Kotlin을 통해 Android 개발에 헌신하며, 클린 아키텍처와 테스트 코드 작성에 특별한 관심을 갖고 있는 개발자입니다.
+Kotlin을 통해 Android 개발을 즐기며, 아키텍처와 안정성 높은 코드를 좋아하는 개발자입니다.
 
 * 이름 : 김태영
-* 나이 : 1992년생 (만 31살)
+* 나이 : 1992년생
 
 * 경력
-  * 안드로이드 4년
+  * 안드로이드 7년
   * SI 부서 2년
 
 * 기술스택 : Kotlin, Java, Retrofit, Glide, DataBinding, LiveData, Flow, Dagger-Hilt, Coroutine, MVVM, MVC, MySql, MsSql, UnitTest, Material Design
